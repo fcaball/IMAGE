@@ -1,0 +1,15 @@
+t1-head
+val(158,143,64)= 242
+min= 0
+max= 885
+
+orange
+val(128,128,32)= 9
+min= 0
+max= 228
+
+
+INCISIX
+val(184,343,83)= 1225
+min= 0
+max= 4095

@@ -1,0 +1,4 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Lire le fichier}{2}{}%
+\contentsline {section}{\numberline {2}MIP}{4}{}%
+\contentsline {section}{\numberline {3}AIP}{5}{}%
